@@ -1,4 +1,4 @@
-# 👋 Hola, soy Bartek!
+# 👋 Hola, soy Nox Dev!
 
 Soy desarrollador en formación, apasionado por la tecnología, la productividad y el diseño minimalista. Estoy enfocado en el desarrollo de aplicaciones web y comparto mi conocimiento y experiencia en mi canal de YouTube.
 
@@ -22,7 +22,7 @@ Soy desarrollador en formación, apasionado por la tecnología, la productividad
 
 
 ## 📫 Conéctate conmigo
-- YouTube: [youtube.com/Bartek](https://www.youtube.com/@elcanaldebartek)
+- YouTube: [youtube.com/Nox-Dev]([https://www.youtube.com/@elcanaldebartek](https://www.youtube.com/@Nox-Developer))
 
 ---
 
