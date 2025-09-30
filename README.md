@@ -1,6 +1,6 @@
 # 👋 Hola, soy Nox Dev
 
-Soy desarrollador web especializado en **Laravel y Livewire**, apasionado por la tecnología, la productividad y el diseño minimalista. Me gusta crear aplicaciones web funcionales y elegantes, y compartir mi experiencia en programación a través de mi canal de YouTube.  
+Soy desarrollador web especializado en **PHP y Laravel**, apasionado por la tecnología, la productividad y el diseño minimalista. Me gusta crear aplicaciones web funcionales y elegantes, y compartir mi experiencia en programación a través de mi canal de YouTube.  
 
 ---
 
