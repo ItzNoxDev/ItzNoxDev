@@ -1,29 +1,36 @@
-# 👋 Hola, soy Nox Dev!
+# 👋 Hola, soy Nox Dev
 
-Soy desarrollador en formación, apasionado por la tecnología, la productividad y el diseño minimalista. Estoy enfocado en el desarrollo de aplicaciones web y comparto mi conocimiento y experiencia en mi canal de YouTube.
+Soy desarrollador web especializado en **Laravel y Livewire**, apasionado por la tecnología, la productividad y el diseño minimalista. Me gusta crear aplicaciones web funcionales y elegantes, y compartir mi experiencia en programación a través de mi canal de YouTube.  
 
 ---
 
 ## 🚀 Sobre mí
-- 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW).
-- 📚 Apasionado por la programación y el aprendizaje constante.
-- 🎥 Creador de contenido en YouTube sobre programación web.
-
-## 🛠️ Tecnologías y herramientas
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
-- **Bases de Datos:** MySQL
-- **Otros:** Git, Java, Python
-
-## 📈 Objetivos
-- Publicar contenido útil y entretenido para la comunidad de programadores.
-- Crecer mi canal de YouTube para ayudar a programadores primerizos y aprender con ello.
-- Desarrollar proyectos que mezclen funcionalidad y diseño minimalista.
-
-
-## 📫 Conéctate conmigo
-- YouTube: [youtube.com/Nox-Dev]([https://www.youtube.com/@elcanaldebartek](https://www.youtube.com/@Nox-Developer))
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)  
+- 💻 Apasionado por **Laravel, Livewire y la creación de aplicaciones web modernas**  
+- 🎥 Creador de contenido en YouTube, compartiendo tutoriales prácticos y proyectos reales  
+- 📚 Siempre en constante aprendizaje y mejora en desarrollo web full-stack  
 
 ---
 
-Gracias por visitar mi perfil. ¡Nos vemos en el mundo del código!
+## 🛠️ Tecnologías y herramientas
+- **Frontend:** HTML, CSS, JavaScript, Alpine.js  
+- **Backend:** PHP, Laravel, Livewire  
+- **Bases de Datos:** MySQL, SQL  
+- **Otros:** Git, Docker, Composer, Node.js, Python  
+
+---
+
+## 📈 Objetivos
+- Crear contenido **útil y práctico** para la comunidad de programadores, especialmente sobre Laravel y Livewire  
+- Mejorar mis habilidades construyendo **proyectos reales y minimalistas**  
+- Ayudar a desarrolladores primerizos a aprender de manera clara y efectiva a través de YouTube y proyectos abiertos  
+
+---
+
+## 📫 Conéctate conmigo
+- YouTube: [Nox Developer](https://www.youtube.com/@Nox-Developer)  
+- GitHub: [NoxDev](https://github.com/NoxDev)  
+
+---
+
+Gracias por visitar mi perfil. ¡Nos vemos en el mundo del código! 🚀
